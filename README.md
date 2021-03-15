@@ -13,6 +13,8 @@ I have been writing many contents since last 8 years at various places. Decided 
   + [Building a vulnerability management program for your organization](https://github.com/iamthefrogy/FYI/blob/main/Material/Vulnerability%20Management%20Talk%20-%20Cyberpreserve.pdf)
   + [Vulnerability Management end-to-end workflow diagram](https://github.com/iamthefrogy/FYI/blob/main/Material/Vulnerability%20Management%20end-to-end%20workflow%20diagram.pdf)
   + [Vulnerability Management Program Key Factors](https://github.com/iamthefrogy/FYI/blob/main/Material/Vulnerability%20Management%20Program%20Key%20Factors.pdf)
+  + [Shadow IT + Threat Intel - Architecture Overview for Blue team](https://github.com/iamthefrogy/FYI/blob/main/Material/Shadow%20IT.pdf)
+
  
   
 + **Offensive Security:**<br/>
