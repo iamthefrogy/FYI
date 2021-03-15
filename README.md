@@ -8,12 +8,14 @@ I have been writing many contents since last 8 years at various places. Decided 
   + [Building a threat intelligence division for your organization - 2](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%202.pdf)
   + [Building a threat intelligence division for your organization - 3](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%203.pdf)
   + [Building a threat intelligence division for your organization - 4](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%204.pdf)
+  + [Fool the network hunters](https://github.com/iamthefrogy/FYI/blob/main/Material/Fool%20The%20Network%20Hunters%20(Hackers).pdf)
  
   
 + **Offensive Security:**<br/>
   + [A complete web application pentest checklist](https://github.com/iamthefrogy/Web-Application-Pentest-Checklist/blob/main/Frogy's%20Mindmap.pdf)
   + [Network VAPT checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Network%20Security%20VAPT%20Checklist.pdf)
   + [Dirty C0w Vulnerability Demo (CVE-2016-5195) - A privilege escalation vulnerability in the Linux Kernel](https://github.com/iamthefrogy/FYI/blob/main/Material/Dirty%20C0w%20Vulnerability%20Demo%20(CVE-2016-5195)%20-%20A%20privilege%20escalation%20vulnerability%20in%20the%20Linux%20Kernel.pdf)
+  + [Windows Command Injection Vulnerability for a Command Shell](https://github.com/iamthefrogy/FYI/blob/main/Material/Windows%20Command%20Injection%20Vulnerability%20for%20a%20Command%20Shell.pdf)
   
   
   
