@@ -11,12 +11,14 @@ I have been writing many contents since last 8 years at various places. Decided 
  
   
 + **Offensive Security:**<br/>
+  + [A complete web application pentest checklist](https://github.com/iamthefrogy/Web-Application-Pentest-Checklist/blob/main/Frogy's%20Mindmap.pdf)
   + [Network VAPT checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Network%20Security%20VAPT%20Checklist.pdf)
   + [Dirty C0w Vulnerability Demo (CVE-2016-5195) - A privilege escalation vulnerability in the Linux Kernel](https://github.com/iamthefrogy/FYI/blob/main/Material/Dirty%20C0w%20Vulnerability%20Demo%20(CVE-2016-5195)%20-%20A%20privilege%20escalation%20vulnerability%20in%20the%20Linux%20Kernel.pdf)
   
   
   
 + **Mobile Security (Android/iOS/hardware OS):**<br/>
+  + [iOS Application Security - xCON Switch - Enable/Disable Detection without removing xCON Application from Cydia ](https://github.com/iamthefrogy/FYI/blob/main/Material/iOS%20Application%20Security%20-%20xCON%20Switch%20-%20Enable%20Disable%20Detection%20without%20removing%20xCON%20Application%20from%20Cydia.pdf)
   + [Android OS phone security hardening guide](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20OS%20Phone%20Security%20Hardening%20Guide.pdf)
   + [Android Application Security - Using hmacSHA256 Encryption For Tamper Proof Request & Response](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20Anti%20Java%20Hooking%20-%20Adding%20Layer%20to%20your%20SSL%20pinning%20and%20Root%20detection.pdf)
   + [Xiaomi’s Analytics Application Security & Privacy Concern ](https://github.com/iamthefrogy/FYI/blob/main/Material/Xiaomi%E2%80%99s%20Analytics%20Application%20Security%20%26%20Privacy%20Concern.pdf)
@@ -28,6 +30,7 @@ I have been writing many contents since last 8 years at various places. Decided 
   
 + **Risk Management/GRC/Compliance:**<br/>
   + [Failed Risk Management](https://github.com/iamthefrogy/FYI/blob/main/Material/Failed%20Risk%20Management.jpg)
+  + [Data Center Security/Safety Review & Audit Checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Data%20Center%20Security%20Safety%20Review%20%26%20Audit%20Checklist.pdf)
   + [Corporate email auditing guidelines](https://github.com/iamthefrogy/FYI/blob/main/Material/Corporate%20Email%20Auditing%20Guidelines.pdf)
   + [Auditing remote access process and procedures](https://github.com/iamthefrogy/FYI/blob/main/Material/Auditing%20remote%20access%20process%20and%20procedures.pdf)
   
