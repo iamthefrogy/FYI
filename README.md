@@ -2,18 +2,24 @@
 I have been writing many contents since last 8 years at various places. Decided to collect, organize and share everything at one place. Hence created this repo.
 ## List of contents:
 
-+ **Cyber Defense:**<br/>
-   + [SOC monitoring mindmap](https://github.com/iamthefrogy/FYI/blob/main/Material/SOC%20Monitoring%20Mindmap.pdf)
++ **Defensive Security:**<br/>
+  + [SOC monitoring mindmap](https://github.com/iamthefrogy/FYI/blob/main/Material/SOC%20Monitoring%20Mindmap.pdf)
   + [Building a threat intelligence division for your organization - 1](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%201.pdf)
   + [Building a threat intelligence division for your organization - 2](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%202.pdf)
   + [Building a threat intelligence division for your organization - 3](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%203.pdf)
   + [Building a threat intelligence division for your organization - 4](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%204.pdf)
+ 
+  
++ **Offensive Security:**<br/>
+  + [Network VAPT checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Network%20Security%20VAPT%20Checklist.pdf)
+  
   
   
 + **Mobile Security (Android/iOS/hardware OS):**<br/>
   + [Android OS phone security hardening guide](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20OS%20Phone%20Security%20Hardening%20Guide.pdf)
   + [Android Kiosk Browser Lock down Security Testing Checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20Kiosk%20Browser%20Lock%20down%20Security%20Testing%20Checklist.pdf)
-  
+  + [Android Application Backup Vulnerabiility Testing](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20Application%20Backup%20Vulnerabiility%20Testing.pdf)
+    
   
 + **Risk Management/GRC/Compliance:**<br/>
   + [Failed Risk Management](https://github.com/iamthefrogy/FYI/blob/main/Material/Failed%20Risk%20Management.jpg)
