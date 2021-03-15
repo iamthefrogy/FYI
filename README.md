@@ -12,6 +12,7 @@ I have been writing many contents since last 8 years at various places. Decided 
   
 + **Mobile Security (Android/iOS/hardware OS):**<br/>
   + [Android OS phone security hardening guide](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20OS%20Phone%20Security%20Hardening%20Guide.pdf)
+  + [Android Kiosk Browser Lock down Security Testing Checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20Kiosk%20Browser%20Lock%20down%20Security%20Testing%20Checklist.pdf)
   
   
 + **Risk Management/GRC/Compliance:**<br/>
