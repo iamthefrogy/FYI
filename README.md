@@ -20,7 +20,7 @@ I have been writing many contents since last 8 years at various places. Decided 
   + [Android Kiosk Browser Lock down Security Testing Checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20Kiosk%20Browser%20Lock%20down%20Security%20Testing%20Checklist.pdf)
   + [Android Application Backup Vulnerabiility Testing](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20Application%20Backup%20Vulnerabiility%20Testing.pdf)
   + [Android Anti Java Hooking - Adding Layer to your SSL pinning and Root detection](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20Anti%20Java%20Hooking%20-%20Adding%20Layer%20to%20your%20SSL%20pinning%20and%20Root%20detection.pdf)
-
++ [Blocking Adwares on Android - Protect against malwares and privacy](https://github.com/iamthefrogy/FYI/blob/main/Material/Blocking%20Adwares%20on%20Android%20-%20Protect%20against%20malwares%20and%20privacy.pdf)
   
 + **Risk Management/GRC/Compliance:**<br/>
   + [Failed Risk Management](https://github.com/iamthefrogy/FYI/blob/main/Material/Failed%20Risk%20Management.jpg)
