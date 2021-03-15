@@ -9,6 +9,10 @@ I have been writing many contents since last 8 years at various places. Decided 
   + [Building a threat intelligence division for your organization - 3](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%203.pdf)
   + [Building a threat intelligence division for your organization - 4](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%204.pdf)
   + [Fool the network hunters](https://github.com/iamthefrogy/FYI/blob/main/Material/Fool%20The%20Network%20Hunters%20(Hackers).pdf)
+  + [Application security maturity assessment in blue team](https://github.com/iamthefrogy/FYI/blob/main/Material/Application%20Security%20Maturity%20Assessment.pdf)
+  + [Building a vulnerability management program for your organization](https://github.com/iamthefrogy/FYI/blob/main/Material/Vulnerability%20Management%20Talk%20-%20Cyberpreserve.pdf)
+  + [Vulnerability Management end-to-end workflow diagram](https://github.com/iamthefrogy/FYI/blob/main/Material/Vulnerability%20Management%20end-to-end%20workflow%20diagram.pdf)
+  + [Vulnerability Management Program Key Factors](https://github.com/iamthefrogy/FYI/blob/main/Material/Vulnerability%20Management%20Program%20Key%20Factors.pdf)
  
   
 + **Offensive Security:**<br/>
