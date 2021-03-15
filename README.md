@@ -1,6 +1,5 @@
 # FYI - This repo is a collection of my articles and publications to the community.
-Using the combination of different subdomain tools it tries to identify more subdomains using combination of bruteforce and other techniques. <br/><br/>
-
+I have been writing many contents since last 8 years at various places. Decided to collect, organize and share everything at one place. Hence created this repo.
 ## List of contents:
 
 + **Cyber Defense:**<br/>
