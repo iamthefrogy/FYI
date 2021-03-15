@@ -42,7 +42,10 @@ I have been writing many contents since last 8 years at various places. Decided 
   + [Corporate email auditing guidelines](https://github.com/iamthefrogy/FYI/blob/main/Material/Corporate%20Email%20Auditing%20Guidelines.pdf)
   + [Auditing remote access process and procedures](https://github.com/iamthefrogy/FYI/blob/main/Material/Auditing%20remote%20access%20process%20and%20procedures.pdf)
   
-  
++ **General Cybersecurity:**<br/>
+  + [21 myths in the cybersecurity world](https://github.com/iamthefrogy/FYI/blob/main/Material/21%20Myths%20in%20Cybersecurity%20World.pdf)
+   
+   
 + **Cryptocurrency:**<br/>
   + [Less perks and more pitfalls of cryptocurrency](https://github.com/iamthefrogy/FYI/blob/main/Material/Less%20perks%20and%20more%20pitfalls%20of%20cryptocurrency.pdf)
   
