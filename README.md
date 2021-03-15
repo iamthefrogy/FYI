@@ -1,4 +1,4 @@
-# FYI - This repo is a collection of my articles and publications to the community.
+# FYI - This repo is a collection of my articles and publications
 I have been writing many contents since last 8 years at various places. Decided to collect, organize and share everything at one place. Hence created this repo.
 ## List of contents:
 
@@ -18,6 +18,7 @@ I have been writing many contents since last 8 years at various places. Decided 
   
 + **Mobile Security (Android/iOS/hardware OS):**<br/>
   + [Android OS phone security hardening guide](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20OS%20Phone%20Security%20Hardening%20Guide.pdf)
+  + [Xiaomi’s Analytics Application Security & Privacy Concern ](https://github.com/iamthefrogy/FYI/blob/main/Material/Xiaomi%E2%80%99s%20Analytics%20Application%20Security%20%26%20Privacy%20Concern.pdf)
   + [Android Application Hardening Checklist For Developers](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20Application%20Hardening%20Checklist%20For%20Developers.pdf)
   + [Android Kiosk Browser Lock down Security Testing Checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20Kiosk%20Browser%20Lock%20down%20Security%20Testing%20Checklist.pdf)
   + [Android Application Backup Vulnerabiility Testing](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20Application%20Backup%20Vulnerabiility%20Testing.pdf)
