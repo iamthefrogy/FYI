@@ -12,11 +12,13 @@ I have been writing many contents since last 8 years at various places. Decided 
   
 + **Offensive Security:**<br/>
   + [Network VAPT checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Network%20Security%20VAPT%20Checklist.pdf)
+  + [Dirty C0w Vulnerability Demo (CVE-2016-5195) - A privilege escalation vulnerability in the Linux Kernel](https://github.com/iamthefrogy/FYI/blob/main/Material/Dirty%20C0w%20Vulnerability%20Demo%20(CVE-2016-5195)%20-%20A%20privilege%20escalation%20vulnerability%20in%20the%20Linux%20Kernel.pdf)
   
   
   
 + **Mobile Security (Android/iOS/hardware OS):**<br/>
   + [Android OS phone security hardening guide](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20OS%20Phone%20Security%20Hardening%20Guide.pdf)
+  + [Android Application Hardening Checklist For Developers](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20Application%20Hardening%20Checklist%20For%20Developers.pdf)
   + [Android Kiosk Browser Lock down Security Testing Checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20Kiosk%20Browser%20Lock%20down%20Security%20Testing%20Checklist.pdf)
   + [Android Application Backup Vulnerabiility Testing](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20Application%20Backup%20Vulnerabiility%20Testing.pdf)
   + [Android Anti Java Hooking - Adding Layer to your SSL pinning and Root detection](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20Anti%20Java%20Hooking%20-%20Adding%20Layer%20to%20your%20SSL%20pinning%20and%20Root%20detection.pdf)
