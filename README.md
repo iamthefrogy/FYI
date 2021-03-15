@@ -10,7 +10,7 @@ I have been writing many contents since last 8 years at various places. Decided 
   + [Building a threat intelligence division for your organization - 4](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%204.pdf)
   
   
-  + **Mobile Security (Android/iOS/hardware OS):**<br/>
++ **Mobile Security (Android/iOS/hardware OS):**<br/>
   + [Android OS phone security hardening guide](https://github.com/iamthefrogy/FYI/blob/main/Material/Android%20OS%20Phone%20Security%20Hardening%20Guide.pdf)
   
   
