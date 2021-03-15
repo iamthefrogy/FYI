@@ -3,7 +3,6 @@ I have been writing many contents since last 8 years at various places. Decided 
 ## List of contents:
 
 + **Cyber Defense:**<br/>
-
   + [SOC monitoring mindmap](https://github.com/iamthefrogy/FYI/blob/main/Material/SOC%20Monitoring%20Mindmap.pdf)
   + [Building a threat intelligence division for your organization - 1](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%201.pdf)
   + [Building a threat intelligence division for your organization - 2](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%202.pdf)
@@ -21,7 +20,7 @@ I have been writing many contents since last 8 years at various places. Decided 
   + [Auditing remote access process and procedures](https://github.com/iamthefrogy/FYI/blob/main/Material/Auditing%20remote%20access%20process%20and%20procedures.pdf)
   
   
- + **Cryptocurrency:**<br/>
++ **Cryptocurrency:**<br/>
   + [Less perks and more pitfalls of cryptocurrency](https://github.com/iamthefrogy/FYI/blob/main/Material/Less%20perks%20and%20more%20pitfalls%20of%20cryptocurrency.pdf)
   
 Warning/Disclaimer: Read the detailed disclaimer at my blog - https://infosecninja.blogspot.com/p/blog-page.html
