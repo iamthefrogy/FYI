@@ -3,7 +3,7 @@ I have been writing many contents since last 8 years at various places. Decided 
 ## List of contents:
 
 + **Cyber Defense:**<br/>
-  + [SOC monitoring mindmap](https://github.com/iamthefrogy/FYI/blob/main/Material/SOC%20Monitoring%20Mindmap.pdf)
+   + [SOC monitoring mindmap](https://github.com/iamthefrogy/FYI/blob/main/Material/SOC%20Monitoring%20Mindmap.pdf)
   + [Building a threat intelligence division for your organization - 1](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%201.pdf)
   + [Building a threat intelligence division for your organization - 2](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%202.pdf)
   + [Building a threat intelligence division for your organization - 3](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%203.pdf)
