@@ -15,6 +15,7 @@ I have been writing many contents since last 8 years at various places. Decided 
   + [Vulnerability Management Program Key Factors](https://github.com/iamthefrogy/FYI/blob/main/Material/Vulnerability%20Management%20Program%20Key%20Factors.pdf)
   + [Shadow IT + Threat Intel - Architecture Overview for Blue team](https://github.com/iamthefrogy/FYI/blob/main/Material/Shadow%20IT.pdf)
   + [iOS device security for SOC team](https://github.com/iamthefrogy/FYI/blob/main/Material/iOS%20device%20security%20monitoring%20in%20SOC.pdf)
+  + [Practical Browser Forensics Checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Practical%20Browser%20Forensics%20Checklist.pdf)
 
  
   
@@ -24,6 +25,7 @@ I have been writing many contents since last 8 years at various places. Decided 
   + [Dirty C0w Vulnerability Demo (CVE-2016-5195) - A privilege escalation vulnerability in the Linux Kernel](https://github.com/iamthefrogy/FYI/blob/main/Material/Dirty%20C0w%20Vulnerability%20Demo%20(CVE-2016-5195)%20-%20A%20privilege%20escalation%20vulnerability%20in%20the%20Linux%20Kernel.pdf)
   + [Windows Command Injection Vulnerability for a Command Shell](https://github.com/iamthefrogy/FYI/blob/main/Material/Windows%20Command%20Injection%20Vulnerability%20for%20a%20Command%20Shell.pdf)
   + [Powered e-Commerce Application Pentesting](https://github.com/iamthefrogy/FYI/blob/main/Material/Powered%20e-Commerce%20Application%20Pentesting.pdf)
+  + [SSH Pentest checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/SSH%20Pentest.pdf)
   
   
   
