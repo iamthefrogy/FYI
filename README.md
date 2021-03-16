@@ -17,6 +17,8 @@ I have been writing many contents since last 8 years at various places. Decided 
   + [iOS device security for SOC team](https://github.com/iamthefrogy/FYI/blob/main/Material/iOS%20device%20security%20monitoring%20in%20SOC.pdf)
   + [Practical Browser Forensics Checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Practical%20Browser%20Forensics%20Checklist.pdf)
   + [DevSecOps risk assessment framework](https://github.com/iamthefrogy/FYI/blob/main/Material/DevSecOPs%20Risk%20Assessment%20Framework.pdf)
+  + [DevSecOps 201 checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/DevSecOps%20201.pdf)
+  + [Incident management maturity assessment](https://github.com/iamthefrogy/FYI/blob/main/Material/Incident%20Management%20Maturity%20Assessment.pdf)
 
  
   
