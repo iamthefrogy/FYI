@@ -20,6 +20,8 @@ I have been writing contents occasionally throughout my career at various places
   + [DevSecOps risk assessment framework](https://github.com/iamthefrogy/FYI/blob/main/Material/DevSecOPs%20Risk%20Assessment%20Framework.pdf)
   + [DevSecOps 201 checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/DevSecOps%20201.pdf)
   + [Incident management maturity assessment](https://github.com/iamthefrogy/FYI/blob/main/Material/Incident%20Management%20Maturity%20Assessment.pdf)
+  + [Vulnerability management tips](https://github.com/iamthefrogy/FYI/blob/main/Material/VM%20tips.pdf)
+  
 
  
   
@@ -49,12 +51,14 @@ I have been writing contents occasionally throughout my career at various places
   + [Failed Risk Management](https://github.com/iamthefrogy/FYI/blob/main/Material/Failed%20Risk%20Management.jpg)
   + [Data Center Security/Safety Review & Audit Checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Data%20Center%20Security%20Safety%20Review%20%26%20Audit%20Checklist.pdf)
   + [Corporate email auditing guidelines](https://github.com/iamthefrogy/FYI/blob/main/Material/Corporate%20Email%20Auditing%20Guidelines.pdf)
+  + [Network architecture review checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Small%20network%20architecture%20review%20checklist.pdf)
   + [Auditing remote access process and procedures](https://github.com/iamthefrogy/FYI/blob/main/Material/Auditing%20remote%20access%20process%20and%20procedures.pdf)
   
 + **General Cybersecurity:**<br/>
   + [21 myths in the cybersecurity world](https://github.com/iamthefrogy/FYI/blob/main/Material/21%20Myths%20in%20Cybersecurity%20World.pdf)
   + [Cyber tranTransparency](https://github.com/iamthefrogy/FYI/blob/main/Material/Cyber%20Transparency.pdf)
   + [Securing remote workspace during COVID-19](https://github.com/iamthefrogy/FYI/blob/main/Material/COVID-19%20Securing%20Remote%20Workspace.pdf)
+  + [Security management challenges over the years](https://github.com/iamthefrogy/FYI/blob/main/Material/Security%20management%20challenges%20over%20the%20years.pdf)
    
    
 + **Cryptocurrency:**<br/>
