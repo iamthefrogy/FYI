@@ -23,6 +23,7 @@ I have been writing many contents since last 8 years at various places. Decided 
   + [Network VAPT checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Network%20Security%20VAPT%20Checklist.pdf)
   + [Dirty C0w Vulnerability Demo (CVE-2016-5195) - A privilege escalation vulnerability in the Linux Kernel](https://github.com/iamthefrogy/FYI/blob/main/Material/Dirty%20C0w%20Vulnerability%20Demo%20(CVE-2016-5195)%20-%20A%20privilege%20escalation%20vulnerability%20in%20the%20Linux%20Kernel.pdf)
   + [Windows Command Injection Vulnerability for a Command Shell](https://github.com/iamthefrogy/FYI/blob/main/Material/Windows%20Command%20Injection%20Vulnerability%20for%20a%20Command%20Shell.pdf)
+  + [Powered e-Commerce Application Pentesting](https://github.com/iamthefrogy/FYI/blob/main/Material/Powered%20e-Commerce%20Application%20Pentesting.pdf)
   
   
   
@@ -52,4 +53,4 @@ I have been writing many contents since last 8 years at various places. Decided 
 + **Cryptocurrency:**<br/>
   + [Less perks and more pitfalls of cryptocurrency](https://github.com/iamthefrogy/FYI/blob/main/Material/Less%20perks%20and%20more%20pitfalls%20of%20cryptocurrency.pdf)
   
-Warning/Disclaimer: Read the detailed disclaimer at my blog - https://infosecninja.blogspot.com/p/blog-page.html
+Warning/Disclaimer: Read the detailed disclaimer at my blog - https://github.com/iamthefrogy/Disclaimer-Warning/blob/main/README.md
