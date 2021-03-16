@@ -21,7 +21,7 @@ I have been writing contents occasionally throughout my career at various places
   + [DevSecOps 201 checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/DevSecOps%20201.pdf)
   + [Incident management maturity assessment](https://github.com/iamthefrogy/FYI/blob/main/Material/Incident%20Management%20Maturity%20Assessment.pdf)
   + [Vulnerability management tips](https://github.com/iamthefrogy/FYI/blob/main/Material/VM%20tips.pdf)
-  
+  + [Threat hunting methodology](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20hunting%20methodology.png)
 
  
   
