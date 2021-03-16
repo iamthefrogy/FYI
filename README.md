@@ -53,6 +53,7 @@ I have been writing contents occasionally throughout my career at various places
   + [Corporate email auditing guidelines](https://github.com/iamthefrogy/FYI/blob/main/Material/Corporate%20Email%20Auditing%20Guidelines.pdf)
   + [Network architecture review checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Small%20network%20architecture%20review%20checklist.pdf)
   + [Auditing remote access process and procedures](https://github.com/iamthefrogy/FYI/blob/main/Material/Auditing%20remote%20access%20process%20and%20procedures.pdf)
+  + [Security awareness program guide](https://github.com/iamthefrogy/FYI/blob/main/Material/Security%20awareness%20program%20guide.pdf)
   
 + **General Cybersecurity:**<br/>
   + [21 myths in the cybersecurity world](https://github.com/iamthefrogy/FYI/blob/main/Material/21%20Myths%20in%20Cybersecurity%20World.pdf)
