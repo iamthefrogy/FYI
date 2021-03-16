@@ -16,6 +16,7 @@ I have been writing many contents since last 8 years at various places. Decided 
   + [Shadow IT + Threat Intel - Architecture Overview for Blue team](https://github.com/iamthefrogy/FYI/blob/main/Material/Shadow%20IT.pdf)
   + [iOS device security for SOC team](https://github.com/iamthefrogy/FYI/blob/main/Material/iOS%20device%20security%20monitoring%20in%20SOC.pdf)
   + [Practical Browser Forensics Checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Practical%20Browser%20Forensics%20Checklist.pdf)
+  + [DevSecOps risk assessment framework](https://github.com/iamthefrogy/FYI/blob/main/Material/DevSecOPs%20Risk%20Assessment%20Framework.pdf)
 
  
   
@@ -50,6 +51,7 @@ I have been writing many contents since last 8 years at various places. Decided 
 + **General Cybersecurity:**<br/>
   + [21 myths in the cybersecurity world](https://github.com/iamthefrogy/FYI/blob/main/Material/21%20Myths%20in%20Cybersecurity%20World.pdf)
   + [Cyber tranTransparency](https://github.com/iamthefrogy/FYI/blob/main/Material/Cyber%20Transparency.pdf)
+  + [Securing remote workspace during COVID-19](https://github.com/iamthefrogy/FYI/blob/main/Material/COVID-19%20Securing%20Remote%20Workspace.pdf)
    
    
 + **Cryptocurrency:**<br/>
