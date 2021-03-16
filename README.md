@@ -22,6 +22,8 @@ I have been writing contents occasionally throughout my career at various places
   + [Incident management maturity assessment](https://github.com/iamthefrogy/FYI/blob/main/Material/Incident%20Management%20Maturity%20Assessment.pdf)
   + [Vulnerability management tips](https://github.com/iamthefrogy/FYI/blob/main/Material/VM%20tips.pdf)
   + [Threat hunting methodology](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20hunting%20methodology.png)
+  + [AV EDR solution selection criteria](https://github.com/iamthefrogy/FYI/blob/main/Material/AV%20EDR%20solution%20selection%20criteria.pdf)
+  + [Threat intel feed sources mindmap](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20intel%20feed%20sources.pdf)
 
  
   
