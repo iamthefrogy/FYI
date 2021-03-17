@@ -5,6 +5,7 @@ I have been writing contents occasionally throughout my career at various places
 
 + **Defensive Security:**<br/>
   + [SOC monitoring mindmap](https://github.com/iamthefrogy/FYI/blob/main/Material/SOC%20Monitoring%20Mindmap.pdf)
+  + [Webinar - Building a vulnerability management program for your organization](https://www.youtube.com/watch?v=UcVflfpZdxI)
   + [Building a threat intelligence division for your organization - 1](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%201.pdf)
   + [Building a threat intelligence division for your organization - 2](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%202.pdf)
   + [Building a threat intelligence division for your organization - 3](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%203.pdf)
@@ -62,6 +63,7 @@ I have been writing contents occasionally throughout my career at various places
   + [Cyber tranTransparency](https://github.com/iamthefrogy/FYI/blob/main/Material/Cyber%20Transparency.pdf)
   + [Securing remote workspace during COVID-19](https://github.com/iamthefrogy/FYI/blob/main/Material/COVID-19%20Securing%20Remote%20Workspace.pdf)
   + [Security management challenges over the years](https://github.com/iamthefrogy/FYI/blob/main/Material/Security%20management%20challenges%20over%20the%20years.pdf)
+  + [Hindi Language - How to be safe from online scams](https://www.youtube.com/watch?v=jBEW2TzTXdY)
    
    
 + **Cryptocurrency:**<br/>
