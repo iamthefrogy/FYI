@@ -33,6 +33,7 @@ I have been writing contents occasionally throughout my career at various places
   
 + **Offensive Security:**<br/>
   + [A complete web application pentest checklist](https://github.com/iamthefrogy/Web-Application-Pentest-Checklist/blob/main/Frogy's%20Mindmap.pdf)
+  + [Marcomino - Malicious Macros Checklist](https://github.com/iamthefrogy/Macromino)
   + [Network VAPT checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/Network%20Security%20VAPT%20Checklist.pdf)
   + [Dirty C0w Vulnerability Demo (CVE-2016-5195) - A privilege escalation vulnerability in the Linux Kernel](https://github.com/iamthefrogy/FYI/blob/main/Material/Dirty%20C0w%20Vulnerability%20Demo%20(CVE-2016-5195)%20-%20A%20privilege%20escalation%20vulnerability%20in%20the%20Linux%20Kernel.pdf)
   + [Windows Command Injection Vulnerability for a Command Shell](https://github.com/iamthefrogy/FYI/blob/main/Material/Windows%20Command%20Injection%20Vulnerability%20for%20a%20Command%20Shell.pdf)
