@@ -3,9 +3,6 @@ I have been writing contents occasionally throughout my career at various places
 
 ## List of contents:
 
-+ **My thoughts:**<br/>
-  + [Suff that I think and share/ask](https://github.com/iamthefrogy/FYI/blob/main/My%20Thoughts.md)
-
 + **Defensive Security:**<br/>
   + [SOC monitoring mindmap](https://github.com/iamthefrogy/FYI/blob/main/Material/SOC%20Monitoring%20Mindmap.pdf)
   + [Shadow IT + Threat intelligence architecture](https://www.linkedin.com/posts/chintangurjar_combining-shadowit-and-threat-intelligence-activity-6675604135687127040-Z7Ug)
