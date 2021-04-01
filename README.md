@@ -8,6 +8,10 @@ I have been writing contents occasionally throughout my career at various places
 
 + **Defensive Security:**<br/>
   + [SOC monitoring mindmap](https://github.com/iamthefrogy/FYI/blob/main/Material/SOC%20Monitoring%20Mindmap.pdf)
+  + [Shadow IT + Threat intelligence architecture](https://www.linkedin.com/posts/chintangurjar_combining-shadowit-and-threat-intelligence-activity-6675604135687127040-Z7Ug)
+  + [VM program key factors](https://www.linkedin.com/posts/chintangurjar_vm-program-activity-6686594201603334144-kO0O)
+  + [Email security mindmap](https://www.linkedin.com/posts/chintangurjar_mindmap-activity-6749601616787329024-LvQl)
+  + [Vulnerability management tips](https://www.linkedin.com/posts/chintangurjar_vm-tips-activity-6744354327273574400-3MRg)
   + [Webinar - Building a vulnerability management program for your organization](https://www.youtube.com/watch?v=UcVflfpZdxI)
   + [Building a threat intelligence division for your organization - 1](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%201.pdf)
   + [Building a threat intelligence division for your organization - 2](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20Intel%202.pdf)
@@ -68,9 +72,11 @@ I have been writing contents occasionally throughout my career at various places
 + **General Cybersecurity:**<br/>
   + [21 myths in the cybersecurity world](https://github.com/iamthefrogy/FYI/blob/main/Material/21%20Myths%20in%20Cybersecurity%20World.pdf)
   + [Cyber tranTransparency](https://github.com/iamthefrogy/FYI/blob/main/Material/Cyber%20Transparency.pdf)
+  + [Security management challanges over the year](https://www.linkedin.com/posts/chintangurjar_security-management-challenges-activity-6678562350733369344-6M8B)
   + [Securing remote workspace during COVID-19](https://github.com/iamthefrogy/FYI/blob/main/Material/COVID-19%20Securing%20Remote%20Workspace.pdf)
   + [Security management challenges over the years](https://github.com/iamthefrogy/FYI/blob/main/Material/Security%20management%20challenges%20over%20the%20years.pdf)
   + [Hindi Language - How to be safe from online scams](https://www.youtube.com/watch?v=jBEW2TzTXdY)
+  + [21+1 myths in Cybersecurity world](https://www.linkedin.com/posts/chintangurjar_myths-in-cybersecurity-activity-6697806039032692736-dut3)
    
    
 + **Cryptocurrency:**<br/>
