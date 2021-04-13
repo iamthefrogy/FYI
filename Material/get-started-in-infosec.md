@@ -11,6 +11,26 @@
 - Know what is common vulnerability scoring system (CVSS)
 - Understand OWASP top 10 project and Sans top 25 projects and their detailed understanding
 
+### What to learn technically
+- Application vulnerabilities
+- Content development
+- Different classes of attacks (e.g., passive, active, insider, close-in, distribution, etc.) 
+- Different operational-threat environments (e.g., first generation (script kiddies), second generation (non-nation state sponsored), and third generation (nation state sponsored))
+- General attack stages (e.g., footprinting and scanning, enumeration, gaining access, escalation of privileges, maintaining access, network exploitation, covering tracks, etc.)
+- Traffic flows across the network (e.g., Transmission Control Protocol (TCP) and Internet Protocol (IP), Open System Interconnection Model (OSI), Information Technology
+- Infrastructure Library, v3 (ITIL))
+- IA principles and organizational requirements (relevant to confidentiality, integrity, availability, authentication, nonrepudiation)
+- Network access, identity, and access management (e.g., public key infrastructure, PKI)
+- Network protocols such as TCP/IP, Dynamic Host Configuration, Domain Name System (DNS), and directory services
+- Network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth)
+- Penetration testing principles, tools, and techniques (e.g., metasploit, burpsuite, etc.)
+- Programming language syntax (bash, python, php, asp.net)
+- Relevant laws, policies, procedures, or governance as they relate to work that may impact critical infrastructure
+- System and application security threats and vulnerabilities System and application security threats and vulnerabilities (e.g., buffer overflow, mobile code, cross-site scripting, PL/SQL and injections, race conditions, covert channel, replay, return-oriented attacks, and malicious code)
+- What constitutes a network attack and the relationship to both threats and vulnerabilities
+
+
+
 ### Career progress
 - Certifications in the industry you can go for
    - CEH
@@ -30,6 +50,11 @@
    - Start a cybersecurity meetup or club
    - Get a basic CEH or equivalent cert
    - AWS, Azure, GCP certifications
+   - Master popular hacking tools (BurpSuite, Metasploit, Nmap, etc.)
+   - Become a power user of a Kali linux (in and out of Kali linux)
+   - Brush up your written skills for professionalism
+   - Develop right attitude
+   - Curosity is the key (ask questions to everyone and yourself, why, what, how, why not this/that, how not this that, etc.)
    - Play CTF
    - Find vulnerability in reputed website (bugbounty)
    - Find zero-day and get CVE id
@@ -43,21 +68,23 @@
    - Ethical hacker ==> National cybersecurity advisor and trainer for Government
    - Security contractor
    - Business development manager for a security company
- - Learn what each of these job titles do in their daily routine (Tip: read job descriptions for all of them on LinkedIn or any job portal)
-   - CISO
-   - Cybersecurity analyst
-   - Ethical hacker
-   - Information assurance analyst
-   - Information security analyst
-   - Intrusion detection specialist
-   - IT security consultant
-   - IT security engineer
-   - Penetration tester
-   - Red teamer
-   - Security administrator
-   - Security architect
-   - Secuity analyst
-   - Security auditor
-   - Security consultant
-   - Security software developer
-   -  
+ - Learn what each of these job titles do in their daily routine (Tip: read job descriptions for all of them on LinkedIn or any job portal). Also learn how they are different to oneanother.
+   - Cryptographer
+   - Source Code Auditor
+   - Digital Forensics Expert
+   - Forensic Analyst
+   - Incident Responder
+   - Security Architect
+   - Malware Analyst
+   - Network Security Engineer
+   - Security Analyst
+   - Computer Crime Investigator
+   - Chief Information Security Officer (CISO)
+   - Information Security Officer (ISO) or Director of Security
+   - Security Operations Center Analyst
+   - Prosecutor Specializing in Information Security Crime
+   - Technical Director and Deputy CISO
+   - Intrusion Analyst
+   - Vulnerability Researcher/Exploit Developer
+   - Security Auditor
+   - Disaster Recovery/Business Continuity Analyst/Manager
