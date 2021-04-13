@@ -1,23 +1,22 @@
 # How to get started in Cybersecurity checklist (Follow top to bottom) (Do below research via YouTube and Google)
-### History and basic
+### History, basics and getting to know common tech topics
 - Understand how it Cyber started, who was the first hacker, first hack, first breach
 - Do a little digging into cybersecurity history and the cybercrime rise in the wild from begining
 - What is cybersecurity
 - Different teams (Red, Blue, Purple), What each team does
 - Know some basic terminologies: Hackers, Script kiddies, Whitehat/Blackhat hackers, Cybercriminals, Financially motivated hackers, Hacking organizations, Hacktivists, Nation-sponsored hackers,
 - Know the difference of Risks, Threat, Vulnerabilities
-
-### Tech-security fundamentals and career progress
 - Know what are tech vulnerabilities
 - Understand CVE website
 - Know what is common vulnerability scoring system (CVSS)
-- Understand OWASP top 10 project
-- Understand all top 10 OWASP vulnerabilities and their impacts
-- Certifications in the industry
+- Understand OWASP top 10 project and Sans top 25 projects and their detailed understanding
+
+### Career progress
+- Certifications in the industry you can go for
    - CEH
    - OSCP
    - Security+
-- How to get into this field with no experience
+- How to build your perfect resume and portfolio with no corporate experience at all
    - Volunteer with a cybersecurity conference
    - Teach a cybersecurity class
    - Mentor a student
@@ -44,3 +43,21 @@
    - Ethical hacker ==> National cybersecurity advisor and trainer for Government
    - Security contractor
    - Business development manager for a security company
+ - Learn what each of these job titles do in their daily routine (Tip: read job descriptions for all of them on LinkedIn or any job portal)
+   - CISO
+   - Cybersecurity analyst
+   - Ethical hacker
+   - Information assurance analyst
+   - Information security analyst
+   - Intrusion detection specialist
+   - IT security consultant
+   - IT security engineer
+   - Penetration tester
+   - Red teamer
+   - Security administrator
+   - Security architect
+   - Secuity analyst
+   - Security auditor
+   - Security consultant
+   - Security software developer
+   -  
