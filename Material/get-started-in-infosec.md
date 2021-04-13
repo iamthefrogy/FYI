@@ -7,13 +7,13 @@
 - Know some basic terminologies: Hackers, Script kiddies, Whitehat/Blackhat hackers, Cybercriminals, Financially motivated hackers, Hacking organizations, Hacktivists, Nation-sponsored hackers,
 - Know the difference of Risks, Threat, Vulnerabilities
 - Know what are tech vulnerabilities
-- Understand CVE website
-- Know what is common vulnerability scoring system (CVSS)
-- Understand OWASP top 10 project and Sans top 25 projects and their detailed understanding
 
 ### What to learn technically
 - Application vulnerabilities
 - Content development
+- Understand CVE website
+- Know what is common vulnerability scoring system (CVSS)
+- Understand OWASP top 10 project and Sans top 25 projects and their detailed understanding
 - Different classes of attacks (e.g., passive, active, insider, close-in, distribution, etc.) 
 - Different operational-threat environments (e.g., first generation (script kiddies), second generation (non-nation state sponsored), and third generation (nation state sponsored))
 - General attack stages (e.g., footprinting and scanning, enumeration, gaining access, escalation of privileges, maintaining access, network exploitation, covering tracks, etc.)
@@ -28,8 +28,6 @@
 - Relevant laws, policies, procedures, or governance as they relate to work that may impact critical infrastructure
 - System and application security threats and vulnerabilities System and application security threats and vulnerabilities (e.g., buffer overflow, mobile code, cross-site scripting, PL/SQL and injections, race conditions, covert channel, replay, return-oriented attacks, and malicious code)
 - What constitutes a network attack and the relationship to both threats and vulnerabilities
-
-
 
 ### Career progress
 - Certifications in the industry you can go for
