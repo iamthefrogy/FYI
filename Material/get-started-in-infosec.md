@@ -36,4 +36,11 @@
    - Find zero-day and get CVE id
  - What you can become in cybersecurity domain
    - CEO of startup company
-   -  
+   - Professor
+   - Analyst ==> Researcher
+   - Consultant ==> Manager ==> CISO/CTO
+   - Journalist
+   - Lawyer
+   - Ethical hacker ==> National cybersecurity advisor and trainer for Government
+   - Security contractor
+   - Business development manager for a security company
