@@ -48,7 +48,7 @@
    - Start a cybersecurity meetup or club
    - Get a basic CEH or equivalent cert
    - AWS, Azure, GCP certifications
-   - Master popular hacking tools (BurpSuite, Metasploit, Nmap, etc.)
+   - Master popular hacking tools (BurpSuite, Metasploit, Nmap, Nessus, Acunetix, Netsparker, Qualys, other free and open source tools etc.)
    - Become a power user of a Kali linux (in and out of Kali linux)
    - Brush up your written skills for professionalism
    - Develop right attitude
@@ -89,7 +89,8 @@
 
 ### Career pathway options
 ![image](https://user-images.githubusercontent.com/8291014/114699512-51146880-9d18-11eb-994e-52e559bbf041.png)
-![image](https://user-images.githubusercontent.com/8291014/114700118-047d5d00-9d19-11eb-90d8-6515547a80de.png)
+https://www.sans.org/cyber-security-skills-roadmap/
+![image](https://user-images.githubusercontent.com/8291014/114700747-caf92180-9d19-11eb-8264-e035883a0a71.png)
 
 ### References: 
 - Book - Introduction to US cybersecurity career
