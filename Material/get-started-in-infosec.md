@@ -86,3 +86,6 @@
    - Vulnerability Researcher/Exploit Developer
    - Security Auditor
    - Disaster Recovery/Business Continuity Analyst/Manager
+
+### References: 
+- Book - Introduction to US cybersecurity career
