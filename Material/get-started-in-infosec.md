@@ -91,7 +91,7 @@
 ![image](https://user-images.githubusercontent.com/8291014/114699512-51146880-9d18-11eb-994e-52e559bbf041.png)
 ![image](https://user-images.githubusercontent.com/8291014/114700118-047d5d00-9d19-11eb-90d8-6515547a80de.png)
 
-
-
 ### References: 
 - Book - Introduction to US cybersecurity career
+- SANS official website
+- Comptia official website
