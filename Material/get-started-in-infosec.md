@@ -86,6 +86,9 @@
    - Vulnerability Researcher/Exploit Developer
    - Security Auditor
    - Disaster Recovery/Business Continuity Analyst/Manager
+## Some good resources fo these
+
+   - http://www.irongeek.com/i.php?page=videos/derbycon4/t207-attack-paths-breaking-into-infosec-from-it-or-other-totally-different-fields-eve-adams-and-johnny-xmas
 
 ### Career pathway options
 ![image](https://user-images.githubusercontent.com/8291014/114699512-51146880-9d18-11eb-994e-52e559bbf041.png)
