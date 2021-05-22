@@ -31,6 +31,7 @@ I have been writing contents occasionally throughout my career at various places
   + [Threat hunting methodology](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20hunting%20methodology.png)
   + [AV EDR solution selection criteria](https://github.com/iamthefrogy/FYI/blob/main/Material/AV%20EDR%20solution%20selection%20criteria.pdf)
   + [Threat intel feed sources mindmap](https://github.com/iamthefrogy/FYI/blob/main/Material/Threat%20intel%20feed%20sources.pdf)
+  + [Data driven threat modeling case study - customer PII/PHI](https://github.com/iamthefrogy/FYI/blob/main/Material/Data%20driven%20threat%20modeling%20-%20customer%20PII.pdf)
 
  
   
@@ -83,5 +84,6 @@ I have been writing contents occasionally throughout my career at various places
    
 + **Cryptocurrency:**<br/>
   + [Less perks and more pitfalls of cryptocurrency](https://github.com/iamthefrogy/FYI/blob/main/Material/Less%20perks%20and%20more%20pitfalls%20of%20cryptocurrency.pdf)
+  + [How to analyze and review a crypto coin before investing into it](https://github.com/iamthefrogy/FYI/blob/main/Material/Crypto%20Investment%20Analysis.pdf)
   
 Warning/Disclaimer: Read the detailed disclaimer at my blog - https://github.com/iamthefrogy/Disclaimer-Warning/blob/main/README.md
