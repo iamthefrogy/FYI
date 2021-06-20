@@ -5,6 +5,7 @@ I have been writing contents occasionally throughout my career at various places
 
 + **Defensive Security:**<br/>
   + [SOC monitoring mindmap](https://github.com/iamthefrogy/FYI/blob/main/Material/SOC%20Monitoring%20Mindmap.pdf)
+  + [External attack surface management](https://github.com/iamthefrogy/FYI/blob/main/Material/External%20Attack%20Surface%20Management.pdf)
   + [Shadow IT + Threat intelligence architecture](https://www.linkedin.com/posts/chintangurjar_combining-shadowit-and-threat-intelligence-activity-6675604135687127040-Z7Ug)
   + [VM program key factors](https://www.linkedin.com/posts/chintangurjar_vm-program-activity-6686594201603334144-kO0O)
   + [Email security mindmap](https://www.linkedin.com/posts/chintangurjar_mindmap-activity-6749601616787329024-LvQl)
