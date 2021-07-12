@@ -4,6 +4,7 @@ I have been writing contents occasionally throughout my career at various places
 ## List of contents:
 
 + **Defensive Security:**<br/>
+  + [YouTube Talk - External attack surface management in Blue team](https://www.youtube.com/watch?v=i2X_L-auDm4)
   + [SOC monitoring mindmap](https://github.com/iamthefrogy/FYI/blob/main/Material/SOC%20Monitoring%20Mindmap.pdf)
   + [External attack surface management](https://github.com/iamthefrogy/FYI/blob/main/Material/External%20Attack%20Surface%20Management.pdf)
   + [Shadow IT + Threat intelligence architecture](https://www.linkedin.com/posts/chintangurjar_combining-shadowit-and-threat-intelligence-activity-6675604135687127040-Z7Ug)
