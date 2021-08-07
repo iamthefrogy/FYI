@@ -48,6 +48,7 @@ I have been writing contents occasionally throughout my career at various places
   + [Windows Command Injection Vulnerability for a Command Shell](https://github.com/iamthefrogy/FYI/blob/main/Material/Windows%20Command%20Injection%20Vulnerability%20for%20a%20Command%20Shell.pdf)
   + [Powered e-Commerce Application Pentesting](https://github.com/iamthefrogy/FYI/blob/main/Material/Powered%20e-Commerce%20Application%20Pentesting.pdf)
   + [SSH Pentest checklist](https://github.com/iamthefrogy/FYI/blob/main/Material/SSH%20Pentest.pdf)
+  + [Bug-bounty Tips & Motivation](https://github.com/iamthefrogy/FYI/blob/main/Material/Bug%20Bounty%20tips%20%26%20Motivation.pdf)
   
   
   
