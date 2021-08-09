@@ -1,6 +1,8 @@
 # FYI - This repo is a collection of my contents
 I have been writing contents occasionally throughout my career at various places. I decided to collect, organize and share everything here. Hence created this repo. A few of the content might not be relevant now as they are of 2012 and 2013, but I decided to add them here. Knowing them might populate new ideas to anyone's brain, so good to add it here as FYI.
 
+![](https://visitor-badge.glitch.me/badge?page_id=iamthefrogy.iamthefrogy)<a href="https://twitter.com/iamthefrogy"> 
+
 ## List of contents:
 
 + **Defensive Security:**<br/>
