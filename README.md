@@ -78,6 +78,7 @@ I have been writing contents occasionally throughout my career at various places
 + **General Cybersecurity:**<br/>
   + [How to successfully break into Cybersecurity?](https://github.com/iamthefrogy/FYI/blob/main/Material/Breaking%20into%20Cybersecurity%20Successfully.pdf)
   + [21 myths in the cybersecurity world](https://github.com/iamthefrogy/FYI/blob/main/Material/21%20Myths%20in%20Cybersecurity%20World.pdf)
+  + [My talk on gender diversity for InfosecGirls community](https://www.youtube.com/watch?v=r1k8_RypZpk)
   + [Malware/EDR solutuon evaluation criteria for purchase](https://www.linkedin.com/posts/chintangurjar_a-quick-checklist-activity-6570203829973979136-YeDF)
   + [Cyber tranTransparency](https://github.com/iamthefrogy/FYI/blob/main/Material/Cyber%20Transparency.pdf)
   + [Security management challanges over the year](https://www.linkedin.com/posts/chintangurjar_security-management-challenges-activity-6678562350733369344-6M8B)
