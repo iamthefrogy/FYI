@@ -6,6 +6,7 @@ I have been writing contents occasionally throughout my career at various places
 ## List of contents:
 
 + **Defensive Security:**<br/>
+  + [Risk-based Vulnerability Management Approach](https://github.com/iamthefrogy/FYI/blob/main/Material/Vulnerability%20Management%20Talk%20-%20ISACA%20-%20Chintan%20Gurjar.pdf)
   + [YouTube Talk - External attack surface management in Blue team](https://www.youtube.com/watch?v=i2X_L-auDm4)
   + [SOC monitoring mindmap](https://github.com/iamthefrogy/FYI/blob/main/Material/SOC%20Monitoring%20Mindmap.pdf)
   + [External attack surface management](https://github.com/iamthefrogy/FYI/blob/main/Material/External%20Attack%20Surface%20Management.pdf)
