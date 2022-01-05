@@ -1,6 +1,8 @@
 # FYI - This repo is a collection of my contents
 <h4 align="left"> Made with ❤️ ❤️ ❤️ from <img src="https://user-images.githubusercontent.com/8291014/145205748-5530f102-9102-4659-a141-21872f237c57.png" alt="frogy" height=20px> </h4>
 
+![](https://visitor-badge.glitch.me/badge?page_id=iamthefrogy.fyi)<a href="https://twitter.com/iamthefrogy"> 
+
 I have been writing contents occasionally throughout my career at various places. I decided to collect, organize and share everything here. Hence created this repo. A few of the content might not be relevant now as they are of 2012 and 2013, but I decided to add them here. Knowing them might populate new ideas to anyone's brain, so good to add it here as FYI.
 
 ## List of contents:
