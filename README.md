@@ -10,6 +10,8 @@ I have been writing contents occasionally throughout my career at various places
 + **Defensive Security:**<br/>
   + [Risk-based Vulnerability Management Approach](https://github.com/iamthefrogy/FYI/blob/main/Material/Vulnerability%20Management%20Talk%20-%20ISACA%20-%20Chintan%20Gurjar.pdf)
   + [Vulnerability Insight GPT Bot](https://www.youtube.com/watch?v=9NynHx9yJV4)
+  + [Gaps in Traditional VM and ASM](https://github.com/iamthefrogy/FYI/blob/main/Material/Gaps%20in%20Traditional%20VM%20and%20ASM%20Advantage.pdf)
+  + [Comprehensive Coverage of Data in CTI](https://github.com/iamthefrogy/FYI/blob/main/Material/Comprehensive%20Coverage%20of%20Data%20in%20CTI.pdf)
   + [YouTube Talk - External attack surface management in Blue team](https://www.youtube.com/watch?v=i2X_L-auDm4)
   + [SOC monitoring mindmap](https://github.com/iamthefrogy/FYI/blob/main/Material/SOC%20Monitoring%20Mindmap.pdf)
   + [External attack surface management](https://github.com/iamthefrogy/FYI/blob/main/Material/External%20Attack%20Surface%20Management.pdf)
